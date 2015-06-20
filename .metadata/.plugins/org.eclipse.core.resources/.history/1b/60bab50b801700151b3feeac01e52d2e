@@ -1,0 +1,15 @@
+package testingClasses;
+
+public class run {
+
+	public static void main(String[] args) {
+		Building ex = new Building();
+		Hospital fk = new Hospital();
+		Hospital gh = 
+		
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}

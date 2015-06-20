@@ -1,0 +1,9 @@
+package testingClasses;
+
+public class Hospital extends Building {
+	@Override
+	public void sayMyName(){
+		System.out.println("Baka, Baka!");
+	}
+
+}

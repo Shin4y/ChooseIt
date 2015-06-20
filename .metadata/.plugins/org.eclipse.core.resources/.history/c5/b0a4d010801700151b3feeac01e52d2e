@@ -1,0 +1,10 @@
+package testingClasses;
+
+import java.io.Console;
+
+public class Building {
+	public void sayMyName(){
+		System.out.println("Hello there!");
+		
+	}
+}
